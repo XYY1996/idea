@@ -1,0 +1,48 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CompilerWorkspaceConfiguration">
+        <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="localRepository" value="D:\server\maven\repository" />
+            <option name="mavenHome" value="D:/server/maven/apache-maven-3.6.3" />
+            <option name="userSettingsFile" value="D:\server\maven\apache-maven-3.6.3\conf\settings.xml" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="importingSettings">
+          <MavenImportingSettings>
+            <option name="vmOptionsForImporter" value="-Xmx768m" />
+          </MavenImportingSettings>
+        </option>
+      </component>
+      <component name="MavenRunner">
+        <option name="delegateBuildToMaven" value="true" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>C:\Users\hp\AppData\Roaming\Subversion</configuration>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>11</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
