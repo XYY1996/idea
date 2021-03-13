@@ -1,0 +1,20 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="1127" />
+    <option name="newTranslationDialogY" value="630" />
+    <option name="pinNewTranslationDialog" value="true" />
+    <histories>
+      <item value="record Financial" />
+      <item value="record Finical" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1615636067828" />
+  </component>
+</application>
