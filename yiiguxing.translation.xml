@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="938" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="Book Keeping Element" />
       <item value="类别" />
       <item value="Amout" />
       <item value="amount" />
@@ -22,7 +23,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="ENGLISH" value="7" />
         <entry key="ARABIC" value="1" />
       </map>
     </option>
