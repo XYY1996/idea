@@ -1,0 +1,37 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogX" value="938" />
+    <option name="newTranslationDialogY" value="384" />
+    <histories>
+      <item value="infrastructure" />
+      <item value="finance" />
+      <item value="finace" />
+      <item value="Book Keeping Element" />
+      <item value="类别" />
+      <item value="Amout" />
+      <item value="amount" />
+      <item value="Repository" />
+      <item value="account Id" />
+      <item value="income" />
+      <item value="账簿" />
+      <item value="zhang'bu" />
+      <item value="zhang" />
+      <item value="zhang'b" />
+      <item value="zhang'bi" />
+      <item value="Income Service" />
+      <item value="record Financial" />
+      <item value="record Finical" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="9" />
+        <entry key="ARABIC" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1615636067828" />
+  </component>
+</application>
