@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="938" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="finance-domain" />
       <item value="infrastructure" />
       <item value="finance" />
       <item value="finace" />
@@ -25,13 +26,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="10" />
         <entry key="ARABIC" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615636067828" />
+    <option name="lastTrimTime" value="1616226471410" />
   </component>
 </application>
