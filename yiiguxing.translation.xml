@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="人人推投放" />
+      <item value="短链二维码配置" />
+      <item value="媒资视频CDN" />
+      <item value="海报加工" />
       <item value="页面制作" />
       <item value="Channel download effect" />
       <item value="渠道下载效果" />
@@ -37,8 +41,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="CHINESE" value="28" />
+        <entry key="ENGLISH" value="28" />
         <entry key="ARABIC" value="1" />
       </map>
     </option>
