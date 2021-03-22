@@ -1,9 +1,30 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="592" />
-    <option name="newTranslationDialogX" value="938" />
-    <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="周报数据" />
+      <item value="人人推投放效果" />
+      <item value="海报投放效果" />
+      <item value="短链投放效果" />
+      <item value="页面投放效果" />
+      <item value="理渠道包管理" />
+      <item value="人人推投放" />
+      <item value="短链二维码配置" />
+      <item value="媒资视频CDN" />
+      <item value="海报加工" />
+      <item value="页面制作" />
+      <item value="Channel download effect" />
+      <item value="渠道下载效果" />
+      <item value="渠道素材效果" />
+      <item value="素材投放效果" />
+      <item value="素材分发效果" />
+      <item value="推广截图管理" />
+      <item value="内容媒资库" />
+      <item value="推荐素材库" />
+      <item value="素材分发执行" />
+      <item value="素材分发审核" />
+      <item value="素材创建审核" />
+      <item value="我的素材分发" />
+      <item value="我的素材创建" />
       <item value="finance-domain" />
       <item value="infrastructure" />
       <item value="finance" />
@@ -26,8 +47,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="34" />
         <entry key="ARABIC" value="1" />
       </map>
     </option>
