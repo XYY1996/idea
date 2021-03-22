@@ -1,9 +1,7 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="592" />
-    <option name="newTranslationDialogX" value="938" />
-    <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="我的素材创建" />
       <item value="finance-domain" />
       <item value="infrastructure" />
       <item value="finance" />
@@ -26,7 +24,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
+        <entry key="CHINESE" value="10" />
         <entry key="ENGLISH" value="10" />
         <entry key="ARABIC" value="1" />
       </map>
