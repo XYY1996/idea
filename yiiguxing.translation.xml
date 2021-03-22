@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="素材分发审核" />
+      <item value="素材创建审核" />
+      <item value="我的素材分发" />
       <item value="我的素材创建" />
       <item value="finance-domain" />
       <item value="infrastructure" />
@@ -24,8 +27,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="13" />
         <entry key="ARABIC" value="1" />
       </map>
     </option>
