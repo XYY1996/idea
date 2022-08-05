@@ -8,7 +8,7 @@
     </remote-server>
     <remote-server name="Docker-223" type="docker">
       <configuration>
-        <option name="apiUrl" value="23.105.207.223:2375" />
+        <option name="apiUrl" value="https://23.105.207.223:2375" />
         <option name="certificatesPath" value="D:\cert\docker\223" />
       </configuration>
     </remote-server>
