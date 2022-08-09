@@ -244,6 +244,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.sjhy.plugin.easycode">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.database" />
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.squaretest.Squaretest">
           <value>
             <PluginData>
