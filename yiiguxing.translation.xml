@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Get each of the previous element siblings of each element in this list. Returns: all previous element siblings." />
       <item value="Could not read JSON: Could not resolve type id 'com.migu.belugawhale.common.po.MktActivityControlRule' into a subtype of [simple type, class java.lang.Object]: no such class found" />
       <item value="产品已订购，无需再次订购" />
       <item value="创建订单失败" />
@@ -50,17 +51,16 @@
       <item value="income" />
       <item value="账簿" />
       <item value="zhang'bu" />
-      <item value="zhang" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="ENGLISH" value="46" />
         <entry key="ARABIC" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616226471410" />
+    <option name="lastTrimTime" value="1661917412502" />
   </component>
 </application>
